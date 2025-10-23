@@ -2,7 +2,6 @@ using Android.App;
 using Android.OS;
 using Android.Runtime;
 using Microsoft.EntityFrameworkCore;
-using Microsoft.Extensions.Logging;
 using Tk.Database;
 using Tk.Database.Migrations;
 using Tk.Models;

@@ -1,13 +1,6 @@
-using Microsoft.Extensions.Logging;
-using Microsoft.Extensions.Logging.Console;
 using Serilog;
 
-using ILogger = Microsoft.Extensions.Logging.ILogger;
-
 namespace Tk.App;
-
-using Logger = ILogger<MainActivity>;
-
 
 public class MainApplication
     : Application

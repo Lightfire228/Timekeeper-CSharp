@@ -1,5 +1,4 @@
 using Android.Content;
-using Microsoft.Extensions.Logging;
 using Tk.App.Models;
 
 namespace Tk.App;

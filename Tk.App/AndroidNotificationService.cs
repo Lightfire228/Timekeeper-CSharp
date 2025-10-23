@@ -5,12 +5,7 @@ using Android.Graphics;
 using Android.OS;
 using AndroidX.Core.App;
 
-using Microsoft.Extensions.Logging;
-
 namespace Tk.App;
-
-using ILogger = ILogger;
-
 
 public class AndroidNotificationService(AndroidNotificationServiceOpts opts)
     : INotificationService
