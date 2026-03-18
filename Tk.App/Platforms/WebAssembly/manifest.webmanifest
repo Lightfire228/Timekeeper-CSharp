@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "Tk.App",
+  "display": "standalone",
+  "name": "Tk.App",
+  "short_name": "Tk.App",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
